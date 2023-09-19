@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Live Site: [react-firebase-auth-test-dd144.firebaseapp.com](react-firebase-auth-test-dd144.firebaseapp.com).
+Live Site: [https://react-firebase-auth-test-dd144.firebaseapp.com/](https://react-firebase-auth-test-dd144.firebaseapp.com/)
 
 ## Available Scripts
 
