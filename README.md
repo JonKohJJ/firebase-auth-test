@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Live Site: react-firebase-auth-test-dd144.firebaseapp.com
+hosted with Firebase
+
 ## Available Scripts
 
 In the project directory, you can run:
