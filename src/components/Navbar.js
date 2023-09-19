@@ -13,7 +13,7 @@ export default function Navbar() {
   return (
     <nav className={styles.navbar}>
         <ul>
-            <li className={styles.title}>Firebase Authenticator</li>
+            <li className={styles.title}>Firebase Authenticator App</li>
 
             {!user && (
               <>
